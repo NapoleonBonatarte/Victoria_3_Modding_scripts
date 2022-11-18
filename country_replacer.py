@@ -1,6 +1,7 @@
 
 #file = open(input("enter file"))
-file = open("C:/Code/Personal code/victoria_3_scripts/datafolder/00_states.txt")
+# file directory
+file = open("")
 newfile = open("tempFile" , "w")
 changeall = False
 
