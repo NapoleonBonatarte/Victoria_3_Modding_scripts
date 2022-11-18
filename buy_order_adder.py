@@ -1,6 +1,8 @@
 
 
-file = open("C:/Code/Personal code/victoria_3_scripts/00_buy_packages.txt")
+# file directory
+file = open("")
+
 newfile = open("tempFileBuyPackages" , "w")
 changeall = False
 
