@@ -1,7 +1,7 @@
 
 
-
-file = open("C:/Code/Personal code/victoria_3_scripts/province_terrains.txt")
+# file directory
+file = open("")
 newfile = open("tempFileTerrain" , "w")
 changeall = False
 
