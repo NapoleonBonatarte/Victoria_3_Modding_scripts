@@ -1,6 +1,7 @@
 
 
-file = open("C:/Code/Personal code/victoria_3_scripts/datafolder/05_north_america.txt")
+# file directory
+file = open("")
 newfile = open("tempFilePopulation" , "w")
 changeall = False
 
